@@ -104,7 +104,6 @@ celerybeat.pid
 # Environments
 api_yamdb/.env
 .venv
-.env
 env/
 venv/
 ENV/
